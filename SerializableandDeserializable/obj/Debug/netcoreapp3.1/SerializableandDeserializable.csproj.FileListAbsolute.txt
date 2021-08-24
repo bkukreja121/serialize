@@ -1,0 +1,13 @@
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\bin\Debug\netcoreapp3.1\SerializableandDeserializable.exe
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\bin\Debug\netcoreapp3.1\SerializableandDeserializable.deps.json
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\bin\Debug\netcoreapp3.1\SerializableandDeserializable.runtimeconfig.json
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\bin\Debug\netcoreapp3.1\SerializableandDeserializable.runtimeconfig.dev.json
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\bin\Debug\netcoreapp3.1\SerializableandDeserializable.dll
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\bin\Debug\netcoreapp3.1\SerializableandDeserializable.pdb
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.csproj.AssemblyReference.cache
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.AssemblyInfoInputs.cache
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.AssemblyInfo.cs
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.dll
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.pdb
+C:\Users\bkukrej\source\repos\SerializableandDeserializable\SerializableandDeserializable\obj\Debug\netcoreapp3.1\SerializableandDeserializable.genruntimeconfig.cache
